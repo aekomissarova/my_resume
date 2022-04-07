@@ -1,4 +1,4 @@
-# my_profile
+# my_resume
 
 It is my first html+css project
 
